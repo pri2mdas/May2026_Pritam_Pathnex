@@ -1,0 +1,9 @@
+# What I did today
+2 hours - Attended Teams live session
+1 hour practicing docker commands
+1 hour watching English videos
+
+## Tomorrow's Task
+2 hours will learn kubernets
+3 hours - watching videos, tutorials related to Linux commands
+
