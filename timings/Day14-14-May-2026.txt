@@ -1,0 +1,8 @@
+# What I did today
+2 hours - watched kebernetes youtube video
+1 hour watched git video
+Code pushed to git
+
+## Tomorrow's Task
+2 hours will learn kubernets
+3 hours - watching videos, tutorials related to Linux commands1
