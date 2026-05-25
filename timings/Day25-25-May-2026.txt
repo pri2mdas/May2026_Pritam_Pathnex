@@ -1,0 +1,7 @@
+# What I did today
+3.5 hours - Did full hand on of terraform ansible Jenkins. INstalled jenskins and the springboot application.
+1 hour studies about CI CD
+Code pushed to git
+
+## Tomorrow's Task
+2 hours will learn more on Jenkins
