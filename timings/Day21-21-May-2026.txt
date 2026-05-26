@@ -1,0 +1,7 @@
+# What I did today
+Today leant about Terraform. how it works as a IAAS.
+
+Installed 1 ec2 instance via terraform by for each function. 
+
+## Tomorrow's Task
+Will learn more on Terraform and how to write the codes. 

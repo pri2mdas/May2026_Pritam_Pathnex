@@ -1,0 +1,8 @@
+# What I did today
+4 hours revised and studies AWS concepts, VPC, Security groups inbound outbound rules, 
+Launch templates, Auto scaling groups, Load balancer, Sunbets, Route 53
+
+and 1 hour studies ansible, how to write ansible playbook yaml files.
+
+## Tomorrow's Task
+Will learn on CICD tools. 
