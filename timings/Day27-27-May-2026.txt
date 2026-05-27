@@ -1,0 +1,6 @@
+# What I did today
+Today leant about ELK, Elastic search, Logstash and KIvana
+Installed datadog in Kubenetes cluster.  
+
+## Tomorrow's Task
+Will learn more on Monitoring
