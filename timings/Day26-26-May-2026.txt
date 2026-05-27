@@ -1,0 +1,7 @@
+# What I did today
+Today leant about Datadog, Prometheus and grafana. how it works as a monitoring tool
+
+Installed datadog in Kubenetes cluster.  
+
+## Tomorrow's Task
+Will learn more on Prometheus and grafana 
